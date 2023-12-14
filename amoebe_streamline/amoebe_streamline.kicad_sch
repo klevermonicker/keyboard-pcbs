@@ -1,0 +1,55 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid f7434787-4d52-45e0-bcf8-72783deb577d)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 138.43 76.2) (size 17.78 19.05) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 49b013cb-3077-41ab-9637-70b1ae0af3e3)
+    (property "Sheetname" "key" (at 138.43 75.4884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "key.kicad_sch" (at 138.43 95.8346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (pin "SC0" bidirectional (at 156.21 83.82 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 735db03b-b789-4c62-9135-095316c37b33)
+    )
+    (pin "SR0" bidirectional (at 156.21 87.63 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 061f7ab6-25b7-41ff-bd9e-eabe17661a63)
+    )
+    (pin "VDD0" bidirectional (at 138.43 80.01 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 77b4b0e8-f773-4da1-9808-a78f3e30221a)
+    )
+    (pin "DIN0" input (at 138.43 82.55 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid a12b4d64-beb8-4e7b-86f0-caf560f00933)
+    )
+    (pin "DOUT0" output (at 138.43 86.36 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 1120c494-1fb1-40df-b485-b267f79f4c12)
+    )
+    (pin "VSS0" bidirectional (at 138.43 90.17 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 83aa1051-0ecb-483e-b022-042169b52e75)
+    )
+    (instances
+      (project "amoebe_streamline"
+        (path "/f7434787-4d52-45e0-bcf8-72783deb577d" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
