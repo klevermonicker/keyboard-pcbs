@@ -1,0 +1,27 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.9*%
+%TF.CreationDate,2023-12-15T15:14:17-05:00*%
+%TF.ProjectId,amoebe_streamline,616d6f65-6265-45f7-9374-7265616d6c69,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,NonPlated,1,2,NPTH,Drill*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.9) date 2023-12-15 15:14:17*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentDrill*%
+%ADD10C,1.701800*%
+%TD*%
+%TA.AperFunction,ComponentDrill*%
+%ADD11C,3.987800*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,S1*%
+X138074400Y-100355400D03*
+X148234400Y-100355400D03*
+D11*
+X143154400Y-100355400D03*
+M02*
