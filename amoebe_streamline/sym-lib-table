@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Amoebe_streamline")(type "Legacy")(uri "${KIPRJMOD}/amoeba-king-rescue.lib")(options "")(descr ""))
+)
