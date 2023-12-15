@@ -140,7 +140,7 @@
     (property "Value" "MX1A" (at 119.38 94.615 0)
       (effects (font (size 1.524 1.524)) (justify right))
     )
-    (property "Footprint" "CustomFootprints:Kailh_socket_MX_reversible_platemount" (at 125.73 99.06 0)
+    (property "Footprint" "CustomFootprints:SW_MX_reversible" (at 125.73 99.06 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 125.73 99.06 0)

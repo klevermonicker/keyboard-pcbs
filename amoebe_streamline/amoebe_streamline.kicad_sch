@@ -111,7 +111,7 @@
     )
   )
 
-  (bus_alias "Streamline" (members "VDD" "VSS" "R" "C" "DIN" "DOUT"))
+  (bus_alias "Streamline" (members "VDD" "VSS" "R" "C" "DATA"))
 
   (bus_entry (at 132.08 78.74) (size -2.54 -2.54)
     (stroke (width 0) (type default))
