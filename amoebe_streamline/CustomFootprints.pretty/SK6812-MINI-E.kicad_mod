@@ -34,4 +34,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 0))
   )
+  (model "${KIPRJMOD}/LED_SK6812MINI-E.step"
+    (offset (xyz 0 -5.1 -1.75))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 180 0 0))
+  )
 )
